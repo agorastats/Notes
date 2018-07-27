@@ -1,6 +1,4 @@
-## Welcome to Agorastats Notes
-
-
+## Welcome to Agorastats Notes !
 
 
 ### (1) [Restaurant visitors forecasting EDA](https://agorastats.github.io/Notes/notebook.html)
