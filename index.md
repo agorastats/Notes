@@ -2,7 +2,7 @@
 
 Enjoy with data analysis.
 
-### (1) [Restaurant visitors forecasting EDA](https://agorastats.github.io/Notes/rvf_eda)
+### (1) [Restaurant visitors forecasting EDA](https://agorastats.github.io/Notes/notebook)
 
 
 
