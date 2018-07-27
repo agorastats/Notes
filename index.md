@@ -1,9 +1,12 @@
 ## Welcome to Agorastats Notes
 
-Enjoy with data analysis.
+
+
 
 ### (1) [Restaurant visitors forecasting EDA](https://agorastats.github.io/Notes/notebook.html)
 
+Example of reporting analysis with rmarkdown. 
+Data ara available on kaggle https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting
 
 
 
