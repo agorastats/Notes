@@ -1,8 +1,8 @@
 ## Welcome to Agorastats Notes
 
+Enjoy with data analysis.
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### (1) [Restaurant visitors forecasting EDA](https://agorastats.github.io/Notes/rvf_eda)
 
 
 
